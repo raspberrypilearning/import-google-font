@@ -1,6 +1,6 @@
 Google has a free online font library with over 1600 fonts to choose from. The site allows you to browse different fonts using your own sample text to help you find the right font. Google Fonts then gives you the **HTML** and **CSS** that you need to **link** or **import** the font into your website. 
 
---- task ---
+### Find a font
 
 Open [fonts.google.com](https://fonts.google.com/){:target="_blank"}.
 
@@ -8,13 +8,9 @@ Type some sample text in the **Preview** box.
 
 ![The Google Fonts search page. The words 'Lapis Sarawak' are in the preview box.](images/custom.png)
 
---- /task ---
-
 **Notice** that the examples show your sample text. You can see how your words will look in all of the fonts available. 
 
 There are many different search filters to use. You can search by language, or different font properties.
-
---- task ---
 
 Scroll down until you find a font you like. If you know the name of the font you want to use, type it in the main search box. 
 
@@ -22,15 +18,11 @@ Scroll down until you find a font you like. If you know the name of the font you
 
 **Notice** that you can now see an example of the Bangers font that has been applied to the sample text. 
 
---- /task ---
+### Choose your font size 
 
---- task ---
+This example shows 40px.
 
-Choose your font size (this example shows 40px).
-
---- /task ---
-
---- task ---
+### Get the embed code
 
 Click the 'Get font' button at the top right.
 
@@ -38,18 +30,11 @@ You will see your selected fonts.
 
 ![The selected fonts.](images/selected-font.png)
 
---- /task ---
-
---- task ---
-
 Click the 'Get embed code' button.
-
---- /task ---
-
 
 You can either use the `<link>` method or the `<import>` method.
 
-### link method
+### Link method
 
 ![The HTML to copy.](images/link.png)
 
@@ -91,7 +76,7 @@ line_highlights: 16-18
 
 --- /code ---
 
-### import method
+### Import method
 
 ![The CSS to copy.](images/import.png)
 
